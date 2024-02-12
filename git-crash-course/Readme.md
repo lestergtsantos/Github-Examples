@@ -117,6 +117,14 @@ git checkout dev
 
 ## Remotes
 
+We can add remote but often you will just add remotes via upstream when adding a branch
+
+```sh
+git remote add .
+
+gti branch -u origin new-featreue
+```
+
 ## Stashing
 
 ## Merging
